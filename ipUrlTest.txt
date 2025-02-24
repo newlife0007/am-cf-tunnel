@@ -1,4 +1,4 @@
 https://github.com/newlife0007/am-cf-tunnel/raw/refs/heads/main/ipJP.txt@8.222.70.239
 https://github.com/newlife0007/am-cf-tunnel/raw/refs/heads/main/ipHK.txt@8.212.44.95
-https://github.com/newlife0007/am-cf-tunnel/raw/refs/heads/main/ipUS.txt@47.251.95.107
+https://github.com/newlife0007/am-cf-tunnel/raw/refs/heads/main/ipUS.txt@132.226.61.202
 https://github.com/newlife0007/am-cf-tunnel/raw/refs/heads/main/ipKR.txt@132.145.94.80
